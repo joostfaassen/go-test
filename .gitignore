@@ -1,0 +1,6 @@
+# Managed by Glide
+/vendor/
+
+gin-bin
+go-test
+
